@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://kryoswap.com/img/logo.png",
+  "logoURI": "https://cryogen.life/images/cryogen_medium_blackish.png",
   "keywords": ["Cryogen", "default"],
   "tokens": [
     {
@@ -32,7 +32,7 @@
       "address": "0x6A73A99fAC60c265863307c5A40abf32F0a040aC",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://kryoswap.com/img/logo.png"
+      "logoURI": "https://cryogen.life/images/cryogen_medium_blackish.png"
     },
     {
       "name": "PancakeSwap Token",

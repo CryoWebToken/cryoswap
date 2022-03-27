@@ -110,12 +110,12 @@ const CakeDataRow = () => {
           <Skeleton height={24} width={126} my="4px" />
         )}
 
-<br />
-      <Text color="textSubtle">{t('Total Holders')}</Text>
-      <Text lineHeight="1.1" fontSize="24px" bold>{t('1605')}</Text>
-       
+        <br />
+        <Text color="textSubtle">{t('Total Holders')}</Text>
+        <Text lineHeight="1.1" fontSize="24px" bold>
+          {t('1626')}
+        </Text>
       </Flex>
-
     </Grid>
   )
 }
