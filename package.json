@@ -8,7 +8,7 @@
   "scripts": {
     "analyze": "ANALYZE=true yarn build",
     "dev": "next dev",
-    "build": "CI= react-scripts build",
+    "build": "next build",
     "start": "next start",
     "test": "jest",
     "test:config": "jest src/config/__tests__/ --testPathIgnorePatterns",
