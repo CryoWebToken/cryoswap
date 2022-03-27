@@ -58,7 +58,7 @@ function MyApp(props: AppProps) {
         <meta name="twitter:image" content="https://cryogen.life/images/kryobanner.png" />
         <meta
           name="twitter:description"
-          content="KryoSwp is a DEX that only includes fully vetted, audited and safe projects."
+          content="KryoSwp is a DEX that only includes fully vetted, audited and safe projects!"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="KryoSwap - A safe project decentralized exchange for BSC tokens." />
