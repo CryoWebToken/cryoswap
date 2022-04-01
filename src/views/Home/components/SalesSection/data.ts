@@ -50,7 +50,7 @@ export const earnSectionData = (t: TranslateFunction): SalesSectionProps => ({
 })
 
 export const cakeSectionData = (t: TranslateFunction): SalesSectionProps => ({
-  headingText: t('Cryogen is our first fully vetted, audited & doxxed project to list here'),
+  headingText: t('Cryogen is our first fully vetted, audited & doxxed project to list here.'),
   bodyText: t(
     'With MANY use-cases already deployed, a strong team & community, Cryogen is sure one to watch grow! Their utilities include: Cryoweb, Cryopunks, Cryosafe, Cryoflow & Cryowin currently, all done in 5 months time.',
   ),
